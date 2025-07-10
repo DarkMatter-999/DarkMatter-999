@@ -15,7 +15,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DarkMatter-999&theme=aura_dark&hide_border=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkMatter-999&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide=jupyter%20notebook&langs_count=10)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkMatter-999&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide=jupyter%20notebook&exclude_repo=darkmatter-999.github.io&langs_count=10)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DarkMatter-999&limit=10&theme=aura_dark&combine_all_yearly_contributions=true)
